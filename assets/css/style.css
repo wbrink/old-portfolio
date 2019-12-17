@@ -91,6 +91,7 @@ h2 {
 
 .nav-list a {
     text-decoration: none;
+    color: #777777;
 }
 /* end navbar */
 
@@ -108,7 +109,8 @@ h2 {
 }
 
 .about-me p {
-    line-height: 2;
+    line-height: 2.2;
+    margin-bottom: 15px;
 }
 
 
